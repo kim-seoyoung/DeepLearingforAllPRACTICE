@@ -1,1 +1,1 @@
-# DeepLearingforAllPRACTICE
+# deeplearning parctice
