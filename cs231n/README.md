@@ -1,4 +1,4 @@
-S231n assignments
+cs231n assignments
 
 ### setting environment
 ```shell
